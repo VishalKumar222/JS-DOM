@@ -1,0 +1,22 @@
+.flex-containers {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+    background-color: whitesmoke;
+    flex-wrap: wrap;
+}
+
+.cards {
+    width: 30%;
+    height: 300px;
+    border: 2px solid red;
+    text-align: center;
+    margin: 2px;
+}
+
+span {
+    width: 20px;
+    background-color: antiquewhite;
+    font-size: x-large;
+}
